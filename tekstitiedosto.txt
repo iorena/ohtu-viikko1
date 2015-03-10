@@ -1,1 +1,3 @@
 Tämä on tekstitiedosto, joka sisältää tekstiä.
+
+Tätä tekstitiedostoa on muokattu kahdesta eri kloonireposta :O
