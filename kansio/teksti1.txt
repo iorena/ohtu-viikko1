@@ -1,0 +1,1 @@
+Tämä on tekstitiedosto, joka on kansio-nimisen kansion sisällä.
